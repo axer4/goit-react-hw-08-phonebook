@@ -1,0 +1,9 @@
+.heading {
+  display: flex;
+  justify-content: flex-end;
+  font-family: cursive;
+  border-radius: 50px;
+}
+.underline {
+  text-decoration: underline;
+}

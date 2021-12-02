@@ -1,0 +1,38 @@
+.home {
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: space-around;
+}
+.register {
+  font-size: 25px;
+  color: black;
+  font-family: cursive;
+}
+.register:hover {
+  transform: scale(1.2);
+  color: blue;
+}
+.login:hover {
+  transform: scale(1.2);
+  color: blue;
+}
+.login {
+  font-size: 25px;
+  color: black;
+  font-family: cursive;
+}
+.link {
+  text-decoration: none;
+}
+.activeLink {
+  color: blue;
+}
+.contacts {
+  font-size: 25px;
+  color: black;
+  font-family: cursive;
+}
+.contacts:hover {
+  transform: scale(1.2);
+  color: blue;
+}

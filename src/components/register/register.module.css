@@ -1,0 +1,45 @@
+.container {
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.link {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
+.link:hover {
+  color: blue;
+  transform: scale(1.2);
+}
+.heading {
+  text-align: center;
+}
+.item {
+  list-style: none;
+  padding-bottom: 15px;
+}
+.button {
+  margin-left: 15px;
+  border-radius: 25px;
+  cursor: pointer;
+}
+.button:hover {
+  color: blue;
+  transform: scale(1.2);
+  background-color: bisque;
+}
+.input {
+  border-color: blue;
+  border-radius: 5px;
+}
+.input:hover {
+  border-color: violet;
+}
+
+/* .form {
+  display: flex;
+  flex-direction: column;
+} */

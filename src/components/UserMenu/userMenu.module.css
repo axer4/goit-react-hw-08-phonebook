@@ -1,0 +1,20 @@
+.heading {
+  font-family: cursive;
+  border-radius: 50px;
+}
+.container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.button {
+  height: 25px;
+  margin-left: 10px;
+  border-radius: 25px;
+  cursor: pointer;
+}
+.button:hover {
+  color: blue;
+  transform: scale(1.2);
+  background-color: bisque;
+}
